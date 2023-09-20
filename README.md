@@ -10,4 +10,8 @@ Guess the Number is a simple Android game developed using Java. It is designed f
 
 - Java
 
+## Android Studio Device 
+
+- Pixel 2 API 26 (Android 8.0 Google Play | x86)
+
 
